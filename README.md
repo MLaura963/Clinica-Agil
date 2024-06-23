@@ -1,4 +1,4 @@
-﻿# Clinica Agil
+﻿# Clínica Ágil
 
 Desenvolvi um sistemas de consultas para uma clínica. Foi um desafio proposto pela Aceleradora Ágil.
 
