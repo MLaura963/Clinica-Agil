@@ -30,7 +30,7 @@ cancelar a consulta. Ao confirmar o cancelamento, o agendamento é removido da l
 programa retorna ao menu principal.
 Sair : O programa encerra a execução.
 
-# Tratamento de erros:
+## Tratamento de erros:
 ● O paciente não pode ser cadastrado mais de uma vez. Para evitar duplicidade,
 garanta que o número de telefone seja diferente para cada cadastro. Caso ocorra
 uma tentativa de cadastro duplicado, exiba a mensagem "Paciente já cadastrado!"
@@ -41,7 +41,7 @@ agendamento.
 ● Consultas não podem ser marcadas antes da data atual. Certifique-se de que o
 usuário não possa agendar consultas retroativas.
 
-# Extra:
+## Extra:
 Seria muito legal se você conseguisse implementar uma maneira de armazenar as
 informações dos pacientes de forma que eles continuassem existindo mesmo após o
 usuário sair do sistema. Que funcionasse como uma espécie de “banco de dados”.
