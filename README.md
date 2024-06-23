@@ -1,12 +1,12 @@
 ﻿# Clínica Ágil
 
-Desenvolvi um sistemas de consultas para uma clínica. Foi um desafio proposto pela Aceleradora Ágil.
+Desenvolvi um sistemas de agendamento de consultas para uma clínica. Foi um desafio proposto pela Aceleradora Ágil.
 
 ## Algumas instruções para abrir o projeto:
 
 É necessário a instalação da biblioteca pandas e o venv, para isso, submeta ao terminal:
-1-pip install pandas
-2-.venv/Scripts/activate
+1- pip install pandas
+2- .venv/Scripts/activate
 
 # Desafio
 
